@@ -2,8 +2,8 @@
 
 Crowdsourced drone videos, flight logs and descriptions, released to the public for building perception and reasoning AI models for drone applications such as package delivery, search and rescue, and first response.
 
-**Website:** https://aarifahullah.github.io/OpenDV/ </br>
-**Contribute:** https://aarifahullah.github.io/OpenDV/collect.html
+**Website:** https://opendv-ai.github.io/ </br>
+**Contribute:** https://opendv-ai.github.io/collect.html
 
 ## What's collected
 
@@ -40,7 +40,7 @@ Exact GPS locations are removed before release. Contributor names and emails are
 
 ## Team
 
-The George Washington University: Aarifah Ullah (aarifahullah@gwu.edu), Mahyar Ghazanfari (mahyar.ghazanfari@gwu.edu), Peng Wei (pwei@gwu.edu)
+The George Washington University: [Aarifah Ullah](https://aarifahullah.github.io/) (aarifahullah@gwu.edu), [Mahyar Ghazanfari](https://mahyar-gh79.github.io/) (mahyar.ghazanfari@gwu.edu), [Peng Wei](https://web.seas.gwu.edu/pwei/) (pwei@gwu.edu)
 
 ## Editing the site
 
