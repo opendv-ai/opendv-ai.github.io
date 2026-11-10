@@ -4,7 +4,7 @@
 const LINKS = {
   upload: "https://www.dropbox.com/request/69qywdr46vbl6ddfehfx",
   dataset: "https://huggingface.co/datasets/aarifahullah/OpenDV",
-  github: "https://github.com/AarifahUllah/OpenDV",
+  github: "https://github.com/OpenDV-ai/opendv-ai.github.io",
 };
 
 // Fill in [data-link] elements, or mark them "coming soon".
