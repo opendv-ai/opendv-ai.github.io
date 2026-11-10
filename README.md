@@ -41,10 +41,3 @@ Exact GPS locations are removed before release. Contributor names and emails are
 ## Team
 
 The George Washington University: [Aarifah Ullah](https://aarifahullah.github.io/) (aarifahullah@gwu.edu), [Mahyar Ghazanfari](https://mahyar-gh79.github.io/) (mahyar.ghazanfari@gwu.edu), [Peng Wei](https://web.seas.gwu.edu/pwei/) (pwei@gwu.edu)
-
-## Editing the site
-
-- Pages: `docs/index.html` (home), `docs/collect.html` (data collection)
-- Links (upload, Hugging Face, GitHub): top of `docs/site.js`
-- Images and clips: `docs/assets/` (see `docs/assets/README.md`)
-- Preview locally: `powershell -ExecutionPolicy Bypass -File tools\serve.ps1 -Root docs`, then open http://localhost:8123
